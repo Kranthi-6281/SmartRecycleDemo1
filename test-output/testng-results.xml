@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-28T11:53:01 IST" name="Default suite" finished-at="2023-08-28T11:53:06 IST" duration-ms="5274">
+    <groups>
+    </groups>
+    <test started-at="2023-08-28T11:53:01 IST" name="Default test" finished-at="2023-08-28T11:53:06 IST" duration-ms="5274">
+      <class name="com.SmartRecycle.QA.Automation.ForgetPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SmartRecycle.QA.Automation.ForgetPage@6f1de4c7]" started-at="2023-08-28T11:53:01 IST" name="setUp" finished-at="2023-08-28T11:53:05 IST" duration-ms="4188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyFrpwdwithInvalidata()[pri:3, instance:com.SmartRecycle.QA.Automation.ForgetPage@6f1de4c7]" started-at="2023-08-28T11:53:05 IST" name="VerifyFrpwdwithInvalidata" finished-at="2023-08-28T11:53:06 IST" duration-ms="828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyFrpwdwithInvalidata -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.ForgetPage@6f1de4c7]" started-at="2023-08-28T11:53:06 IST" name="tearDown" finished-at="2023-08-28T11:53:06 IST" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SmartRecycle.QA.Automation.ForgetPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
