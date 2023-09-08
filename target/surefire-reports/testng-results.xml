@@ -2,156 +2,156 @@
 <testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-04T12:25:01 IST" name="SmartRecycleAutomation" finished-at="2023-09-04T12:26:20 IST" duration-ms="78381">
+  <suite started-at="2023-09-07T17:26:49 IST" name="SmartRecycleAutomation" finished-at="2023-09-07T17:28:04 IST" duration-ms="75006">
     <groups>
     </groups>
-    <test started-at="2023-09-04T12:25:01 IST" name="Test" finished-at="2023-09-04T12:26:20 IST" duration-ms="78381">
+    <test started-at="2023-09-07T17:26:49 IST" name="Test" finished-at="2023-09-07T17:28:04 IST" duration-ms="75006">
       <class name="com.SmartRecycle.QA.Automation.ForgetPageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@393671df]" started-at="2023-09-04T12:25:02 IST" name="setUp" finished-at="2023-09-04T12:25:09 IST" duration-ms="6867" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@5fdcaa40]" started-at="2023-09-07T17:26:49 IST" name="setUp" finished-at="2023-09-07T17:26:56 IST" duration-ms="6893" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyForgetpasswordLink()[pri:1, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@393671df]" started-at="2023-09-04T12:25:09 IST" name="verifyForgetpasswordLink" finished-at="2023-09-04T12:25:09 IST" duration-ms="394" status="PASS">
+        <test-method signature="verifyForgetpasswordLink()[pri:1, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@5fdcaa40]" started-at="2023-09-07T17:26:56 IST" name="verifyForgetpasswordLink" finished-at="2023-09-07T17:26:56 IST" duration-ms="410" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyForgetpasswordLink -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@393671df]" started-at="2023-09-04T12:25:09 IST" name="tearDown" finished-at="2023-09-04T12:25:09 IST" duration-ms="244" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@5fdcaa40]" started-at="2023-09-07T17:26:56 IST" name="tearDown" finished-at="2023-09-07T17:26:56 IST" duration-ms="284" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@393671df]" started-at="2023-09-04T12:25:09 IST" name="setUp" finished-at="2023-09-04T12:25:12 IST" duration-ms="3269" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@5fdcaa40]" started-at="2023-09-07T17:26:56 IST" name="setUp" finished-at="2023-09-07T17:27:00 IST" duration-ms="3434" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="Verifyfrpwwithvalidemail()[pri:2, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@393671df]" started-at="2023-09-04T12:25:12 IST" name="Verifyfrpwwithvalidemail" finished-at="2023-09-04T12:25:23 IST" duration-ms="10205" status="PASS">
+        <test-method signature="Verifyfrpwwithvalidemail()[pri:2, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@5fdcaa40]" started-at="2023-09-07T17:27:00 IST" name="Verifyfrpwwithvalidemail" finished-at="2023-09-07T17:27:10 IST" duration-ms="10127" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Verifyfrpwwithvalidemail -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@393671df]" started-at="2023-09-04T12:25:23 IST" name="tearDown" finished-at="2023-09-04T12:25:23 IST" duration-ms="242" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@5fdcaa40]" started-at="2023-09-07T17:27:10 IST" name="tearDown" finished-at="2023-09-07T17:27:10 IST" duration-ms="305" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@393671df]" started-at="2023-09-04T12:25:23 IST" name="setUp" finished-at="2023-09-04T12:25:26 IST" duration-ms="2897" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@5fdcaa40]" started-at="2023-09-07T17:27:10 IST" name="setUp" finished-at="2023-09-07T17:27:13 IST" duration-ms="2678" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="VerifyFrpwdwithInvalidata()[pri:3, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@393671df]" started-at="2023-09-04T12:25:26 IST" name="VerifyFrpwdwithInvalidata" finished-at="2023-09-04T12:25:27 IST" duration-ms="1028" status="PASS">
+        <test-method signature="VerifyFrpwdwithInvalidata()[pri:3, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@5fdcaa40]" started-at="2023-09-07T17:27:13 IST" name="VerifyFrpwdwithInvalidata" finished-at="2023-09-07T17:27:14 IST" duration-ms="1201" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyFrpwdwithInvalidata -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@393671df]" started-at="2023-09-04T12:25:27 IST" name="tearDown" finished-at="2023-09-04T12:25:27 IST" duration-ms="207" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@5fdcaa40]" started-at="2023-09-07T17:27:14 IST" name="tearDown" finished-at="2023-09-07T17:27:14 IST" duration-ms="291" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@393671df]" started-at="2023-09-04T12:25:27 IST" name="setUp" finished-at="2023-09-04T12:25:30 IST" duration-ms="2904" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@5fdcaa40]" started-at="2023-09-07T17:27:14 IST" name="setUp" finished-at="2023-09-07T17:27:17 IST" duration-ms="2933" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="VerifySigninbtn()[pri:4, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@393671df]" started-at="2023-09-04T12:25:30 IST" name="VerifySigninbtn" finished-at="2023-09-04T12:25:30 IST" duration-ms="303" status="PASS">
+        <test-method signature="VerifySigninbtn()[pri:4, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@5fdcaa40]" started-at="2023-09-07T17:27:17 IST" name="VerifySigninbtn" finished-at="2023-09-07T17:27:18 IST" duration-ms="271" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifySigninbtn -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@393671df]" started-at="2023-09-04T12:25:30 IST" name="tearDown" finished-at="2023-09-04T12:25:30 IST" duration-ms="254" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.ForgetPageTest@5fdcaa40]" started-at="2023-09-07T17:27:18 IST" name="tearDown" finished-at="2023-09-07T17:27:18 IST" duration-ms="259" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.SmartRecycle.QA.Automation.ForgetPageTest -->
       <class name="com.SmartRecycle.QA.Automation.LoginTest">
-        <test-method is-config="true" signature="Setup()[pri:0, instance:com.SmartRecycle.QA.Automation.LoginTest@5ffead27]" started-at="2023-09-04T12:25:58 IST" name="Setup" finished-at="2023-09-04T12:26:01 IST" duration-ms="3023" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.SmartRecycle.QA.Automation.LoginTest@6ae5aa72]" started-at="2023-09-07T17:27:41 IST" name="Setup" finished-at="2023-09-07T17:27:45 IST" duration-ms="3381" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="verifywithValiddata()[pri:1, instance:com.SmartRecycle.QA.Automation.LoginTest@5ffead27]" started-at="2023-09-04T12:26:01 IST" name="verifywithValiddata" finished-at="2023-09-04T12:26:05 IST" duration-ms="3915" status="PASS">
+        <test-method signature="verifywithValiddata()[pri:1, instance:com.SmartRecycle.QA.Automation.LoginTest@6ae5aa72]" started-at="2023-09-07T17:27:45 IST" name="verifywithValiddata" finished-at="2023-09-07T17:27:49 IST" duration-ms="4461" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifywithValiddata -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.LoginTest@5ffead27]" started-at="2023-09-04T12:26:05 IST" name="tearDown" finished-at="2023-09-04T12:26:05 IST" duration-ms="275" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.LoginTest@6ae5aa72]" started-at="2023-09-07T17:27:49 IST" name="tearDown" finished-at="2023-09-07T17:27:50 IST" duration-ms="219" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="Setup()[pri:0, instance:com.SmartRecycle.QA.Automation.LoginTest@5ffead27]" started-at="2023-09-04T12:26:05 IST" name="Setup" finished-at="2023-09-04T12:26:08 IST" duration-ms="3244" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.SmartRecycle.QA.Automation.LoginTest@6ae5aa72]" started-at="2023-09-07T17:27:50 IST" name="Setup" finished-at="2023-09-07T17:27:53 IST" duration-ms="3403" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="verifywithNodata()[pri:3, instance:com.SmartRecycle.QA.Automation.LoginTest@5ffead27]" started-at="2023-09-04T12:26:08 IST" name="verifywithNodata" finished-at="2023-09-04T12:26:09 IST" duration-ms="155" status="PASS">
+        <test-method signature="verifywithNodata()[pri:3, instance:com.SmartRecycle.QA.Automation.LoginTest@6ae5aa72]" started-at="2023-09-07T17:27:53 IST" name="verifywithNodata" finished-at="2023-09-07T17:27:53 IST" duration-ms="155" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifywithNodata -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.LoginTest@5ffead27]" started-at="2023-09-04T12:26:09 IST" name="tearDown" finished-at="2023-09-04T12:26:09 IST" duration-ms="241" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.LoginTest@6ae5aa72]" started-at="2023-09-07T17:27:53 IST" name="tearDown" finished-at="2023-09-07T17:27:53 IST" duration-ms="255" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="Setup()[pri:0, instance:com.SmartRecycle.QA.Automation.LoginTest@5ffead27]" started-at="2023-09-04T12:26:09 IST" name="Setup" finished-at="2023-09-04T12:26:12 IST" duration-ms="3140" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.SmartRecycle.QA.Automation.LoginTest@6ae5aa72]" started-at="2023-09-07T17:27:53 IST" name="Setup" finished-at="2023-09-07T17:27:57 IST" duration-ms="3207" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="verifyemptyUNwithvalidPw()[pri:4, instance:com.SmartRecycle.QA.Automation.LoginTest@5ffead27]" started-at="2023-09-04T12:26:12 IST" name="verifyemptyUNwithvalidPw" finished-at="2023-09-04T12:26:12 IST" duration-ms="303" status="PASS">
+        <test-method signature="verifyemptyUNwithvalidPw()[pri:4, instance:com.SmartRecycle.QA.Automation.LoginTest@6ae5aa72]" started-at="2023-09-07T17:27:57 IST" name="verifyemptyUNwithvalidPw" finished-at="2023-09-07T17:27:57 IST" duration-ms="299" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyemptyUNwithvalidPw -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.LoginTest@5ffead27]" started-at="2023-09-04T12:26:12 IST" name="tearDown" finished-at="2023-09-04T12:26:12 IST" duration-ms="241" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.LoginTest@6ae5aa72]" started-at="2023-09-07T17:27:57 IST" name="tearDown" finished-at="2023-09-07T17:27:57 IST" duration-ms="241" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="Setup()[pri:0, instance:com.SmartRecycle.QA.Automation.LoginTest@5ffead27]" started-at="2023-09-04T12:26:12 IST" name="Setup" finished-at="2023-09-04T12:26:16 IST" duration-ms="3168" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.SmartRecycle.QA.Automation.LoginTest@6ae5aa72]" started-at="2023-09-07T17:27:57 IST" name="Setup" finished-at="2023-09-07T17:27:59 IST" duration-ms="2396" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="verifywithEmptypassword()[pri:5, instance:com.SmartRecycle.QA.Automation.LoginTest@5ffead27]" started-at="2023-09-04T12:26:16 IST" name="verifywithEmptypassword" finished-at="2023-09-04T12:26:16 IST" duration-ms="310" status="PASS">
+        <test-method signature="verifywithEmptypassword()[pri:5, instance:com.SmartRecycle.QA.Automation.LoginTest@6ae5aa72]" started-at="2023-09-07T17:27:59 IST" name="verifywithEmptypassword" finished-at="2023-09-07T17:28:00 IST" duration-ms="302" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifywithEmptypassword -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.LoginTest@5ffead27]" started-at="2023-09-04T12:26:16 IST" name="tearDown" finished-at="2023-09-04T12:26:16 IST" duration-ms="210" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.LoginTest@6ae5aa72]" started-at="2023-09-07T17:28:00 IST" name="tearDown" finished-at="2023-09-07T17:28:00 IST" duration-ms="258" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="Setup()[pri:0, instance:com.SmartRecycle.QA.Automation.LoginTest@5ffead27]" started-at="2023-09-04T12:26:16 IST" name="Setup" finished-at="2023-09-04T12:26:20 IST" duration-ms="3329" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.SmartRecycle.QA.Automation.LoginTest@6ae5aa72]" started-at="2023-09-07T17:28:00 IST" name="Setup" finished-at="2023-09-07T17:28:03 IST" duration-ms="3269" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="verifyCompanyrights()[pri:2, instance:com.SmartRecycle.QA.Automation.LoginTest@5ffead27]" started-at="2023-09-04T12:26:20 IST" name="verifyCompanyrights" finished-at="2023-09-04T12:26:20 IST" depends-on-methods="com.SmartRecycle.QA.Automation.LoginTest.verifywithEmptypassword" duration-ms="43" status="PASS">
+        <test-method signature="verifyCompanyrights()[pri:2, instance:com.SmartRecycle.QA.Automation.LoginTest@6ae5aa72]" started-at="2023-09-07T17:28:03 IST" name="verifyCompanyrights" finished-at="2023-09-07T17:28:03 IST" depends-on-methods="com.SmartRecycle.QA.Automation.LoginTest.verifywithEmptypassword" duration-ms="44" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyCompanyrights -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.LoginTest@5ffead27]" started-at="2023-09-04T12:26:20 IST" name="tearDown" finished-at="2023-09-04T12:26:20 IST" duration-ms="253" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.LoginTest@6ae5aa72]" started-at="2023-09-07T17:28:03 IST" name="tearDown" finished-at="2023-09-07T17:28:04 IST" duration-ms="203" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.SmartRecycle.QA.Automation.LoginTest -->
       <class name="com.SmartRecycle.QA.Automation.ResetPasswordTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SmartRecycle.QA.Automation.ResetPasswordTest@694abbdc]" started-at="2023-09-04T12:25:30 IST" name="setUp" finished-at="2023-09-04T12:25:34 IST" duration-ms="3280" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SmartRecycle.QA.Automation.ResetPasswordTest@dd8ba08]" started-at="2023-09-07T17:27:18 IST" name="setUp" finished-at="2023-09-07T17:27:21 IST" duration-ms="2897" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyOtpFeild()[pri:1, instance:com.SmartRecycle.QA.Automation.ResetPasswordTest@694abbdc]" started-at="2023-09-04T12:25:34 IST" name="verifyOtpFeild" finished-at="2023-09-04T12:25:39 IST" duration-ms="5634" status="PASS">
+        <test-method signature="verifyOtpFeild()[pri:1, instance:com.SmartRecycle.QA.Automation.ResetPasswordTest@dd8ba08]" started-at="2023-09-07T17:27:21 IST" name="verifyOtpFeild" finished-at="2023-09-07T17:27:25 IST" duration-ms="4248" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyOtpFeild -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.ResetPasswordTest@694abbdc]" started-at="2023-09-04T12:25:39 IST" name="tearDown" finished-at="2023-09-04T12:25:41 IST" duration-ms="1174" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.ResetPasswordTest@dd8ba08]" started-at="2023-09-07T17:27:25 IST" name="tearDown" finished-at="2023-09-07T17:27:25 IST" duration-ms="254" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SmartRecycle.QA.Automation.ResetPasswordTest@694abbdc]" started-at="2023-09-04T12:25:41 IST" name="setUp" finished-at="2023-09-04T12:25:44 IST" duration-ms="3199" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SmartRecycle.QA.Automation.ResetPasswordTest@dd8ba08]" started-at="2023-09-07T17:27:25 IST" name="setUp" finished-at="2023-09-07T17:27:28 IST" duration-ms="2960" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyNewpasswordfeild()[pri:2, instance:com.SmartRecycle.QA.Automation.ResetPasswordTest@694abbdc]" started-at="2023-09-04T12:25:44 IST" name="verifyNewpasswordfeild" finished-at="2023-09-04T12:25:49 IST" duration-ms="5063" status="PASS">
+        <test-method signature="verifyNewpasswordfeild()[pri:2, instance:com.SmartRecycle.QA.Automation.ResetPasswordTest@dd8ba08]" started-at="2023-09-07T17:27:28 IST" name="verifyNewpasswordfeild" finished-at="2023-09-07T17:27:33 IST" duration-ms="5045" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyNewpasswordfeild -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.ResetPasswordTest@694abbdc]" started-at="2023-09-04T12:25:49 IST" name="tearDown" finished-at="2023-09-04T12:25:49 IST" duration-ms="215" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.ResetPasswordTest@dd8ba08]" started-at="2023-09-07T17:27:33 IST" name="tearDown" finished-at="2023-09-07T17:27:34 IST" duration-ms="194" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SmartRecycle.QA.Automation.ResetPasswordTest@694abbdc]" started-at="2023-09-04T12:25:49 IST" name="setUp" finished-at="2023-09-04T12:25:53 IST" duration-ms="3522" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SmartRecycle.QA.Automation.ResetPasswordTest@dd8ba08]" started-at="2023-09-07T17:27:34 IST" name="setUp" finished-at="2023-09-07T17:27:36 IST" duration-ms="2858" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyConfirmpwd()[pri:3, instance:com.SmartRecycle.QA.Automation.ResetPasswordTest@694abbdc]" started-at="2023-09-04T12:25:53 IST" name="verifyConfirmpwd" finished-at="2023-09-04T12:25:58 IST" duration-ms="5146" status="PASS">
+        <test-method signature="verifyConfirmpwd()[pri:3, instance:com.SmartRecycle.QA.Automation.ResetPasswordTest@dd8ba08]" started-at="2023-09-07T17:27:36 IST" name="verifyConfirmpwd" finished-at="2023-09-07T17:27:41 IST" duration-ms="4831" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyConfirmpwd -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.ResetPasswordTest@694abbdc]" started-at="2023-09-04T12:25:58 IST" name="tearDown" finished-at="2023-09-04T12:25:58 IST" duration-ms="231" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SmartRecycle.QA.Automation.ResetPasswordTest@dd8ba08]" started-at="2023-09-07T17:27:41 IST" name="tearDown" finished-at="2023-09-07T17:27:41 IST" duration-ms="218" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
