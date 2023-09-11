@@ -6,13 +6,36 @@
   </listeners>
   <test thread-count="5" name="Test(failed)" verbose="0">
     <classes>
+      <class name="com.SmartRecycle.QA.Automation.LoginTest">
+        <methods>
+          <include name="verifywithEmptypassword"/>
+          <include name="verifywithValiddata"/>
+          <include name="Setup"/>
+          <include name="tearDown"/>
+          <include name="verifyemptyUNwithvalidPw"/>
+          <include name="verifywithNodata"/>
+          <include name="verifyCompanyrights"/>
+        </methods>
+      </class> <!-- com.SmartRecycle.QA.Automation.LoginTest -->
       <class name="com.SmartRecycle.QA.Automation.ForgetPageTest">
         <methods>
           <include name="Verifyfrpwwithvalidemail"/>
           <include name="setUp"/>
+          <include name="verifyForgetpasswordLink"/>
+          <include name="VerifyFrpwdwithInvalidata"/>
           <include name="tearDown"/>
+          <include name="VerifySigninbtn"/>
         </methods>
       </class> <!-- com.SmartRecycle.QA.Automation.ForgetPageTest -->
+      <class name="com.SmartRecycle.QA.Automation.ResetPasswordTest">
+        <methods>
+          <include name="verifyOtpFeild"/>
+          <include name="verifyNewpasswordfeild"/>
+          <include name="setUp"/>
+          <include name="verifyConfirmpwd"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.SmartRecycle.QA.Automation.ResetPasswordTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [SmartRecycleAutomation] -->
