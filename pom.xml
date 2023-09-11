@@ -49,13 +49,15 @@
     <version>4.1.2</version>
 </dependency>
 
-
 <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
-    <version>4.11.0</version>
+    <version>4.12.1</version>
 </dependency>
+
+
+
 <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
 <dependency>
     <groupId>com.aventstack</groupId>
@@ -88,10 +90,10 @@
         </plugin>
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
-           <artifactId>maven-surefire-plugin</artifactId>
-            <version>3.1.2</version>
-             <configuration>
-             <suiteXmlFiles>
+              <artifactId>maven-surefire-plugin</artifactId>
+                   <version>3.1.2</version>
+                <configuration>
+              <suiteXmlFiles>
             <suiteXmlFile>testng.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
